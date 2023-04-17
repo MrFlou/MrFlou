@@ -1,9 +1,9 @@
 ### Hello there! Names Simon or MrFlou
 
 ## Here are some of the things I'm doing or have done.
-- 🔭 I’m currently working on my master's degree in [VISION, GRAPHICS AND INTERACTIVE SYSTEMS][vgis]
+- 🔭 Master's degree in [VISION, GRAPHICS AND INTERACTIVE SYSTEMS][vgis]
 - 🌱 I’m currently working with machine learning and computer vision.
-- ⚡ 2021 Goals: Create more projects... and finish them
+- ⚡ 2024 Goals: Create more projects... and finish them
 <br />
 
 ### Languages and Tools:
